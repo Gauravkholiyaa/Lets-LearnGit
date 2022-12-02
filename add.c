@@ -7,6 +7,6 @@ int main(){
 int a =9;
 int b =8;
 int c = a+b;
-printf("%d",c);
+printf("the sum is :%d",c);
 return 0;
 }
