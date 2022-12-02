@@ -9,6 +9,6 @@ int main()
     int a = 9;
     int b = 8;
     int c = a -b;
-    printf("the diff is :%d", c);
+    printf("the difference is :%d", c);
     return 0;
 }
